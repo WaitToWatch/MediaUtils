@@ -1,4 +1,4 @@
-package com.werb.mediautilsdemo.widget;
+package com.kerhcin.mediautil.widget;
 
 import android.content.Context;
 import android.graphics.Canvas;
@@ -8,7 +8,7 @@ import android.graphics.RectF;
 import android.util.AttributeSet;
 import android.view.View;
 
-import com.werb.mediautilsdemo.R;
+import com.kerhcin.mediautil.R;
 
 /**
  * Created by Wanbo on 2016/12/7.

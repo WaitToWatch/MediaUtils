@@ -22,7 +22,7 @@
             android:textColor="#ffffff"
             android:text="双击放大"/>
 
-        <com.werb.mediautilsdemo.widget.SendView
+        <com.kerhcin.mediautil.widget.SendView
             android:id="@+id/view_send"
             android:layout_width="match_parent"
             android:layout_height="match_parent"/>
@@ -32,7 +32,7 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent">
 
-            <com.werb.mediautilsdemo.widget.VideoProgressBar
+            <com.kerhcin.mediautil.widget.VideoProgressBar
                 android:id="@+id/main_progress_bar"
                 android:layout_width="85dp"
                 android:layout_height="85dp"

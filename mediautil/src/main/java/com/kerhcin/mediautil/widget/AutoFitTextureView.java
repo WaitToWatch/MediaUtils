@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.werb.mediautilsdemo.widget;
+package com.kerhcin.mediautil.widget;
 
 import android.content.Context;
 import android.util.AttributeSet;

@@ -1,4 +1,4 @@
-package com.werb.mediautilsdemo;
+package com.kerhcin.mediautil;
 
 import android.content.Context;
 import android.content.res.Configuration;

@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.werb.mediautilsdemo;
+package com.kerhcin.mediautil;
 
 import android.annotation.TargetApi;
 import android.hardware.Camera;

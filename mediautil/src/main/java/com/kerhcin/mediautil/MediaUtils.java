@@ -1,4 +1,4 @@
-package com.werb.mediautilsdemo;
+package com.kerhcin.mediautil;
 
 import android.app.Activity;
 import android.graphics.Bitmap;
@@ -13,7 +13,7 @@ import android.view.SurfaceHolder;
 import android.view.SurfaceView;
 import android.view.View;
 
-import com.werb.mediautilsdemo.widget.AutoFitTextureView;
+import com.kerhcin.mediautil.widget.AutoFitTextureView;
 
 import java.io.File;
 import java.io.FileOutputStream;

@@ -13,7 +13,7 @@ import android.widget.RelativeLayout;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.werb.mediautilsdemo.MediaUtils;
+import com.kerhcin.mediautil.MediaUtils;
 import com.werb.mediautilsdemo.R;
 
 import java.util.UUID;

@@ -11,17 +11,14 @@ import android.support.v7.app.AppCompatActivity;
 import android.view.MotionEvent;
 import android.view.SurfaceView;
 import android.view.View;
-import android.view.animation.Animation;
-import android.view.animation.AnimationSet;
-import android.view.animation.AnimationUtils;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.werb.mediautilsdemo.MediaUtils;
+import com.kerhcin.mediautil.MediaUtils;
+import com.kerhcin.mediautil.widget.SendView;
+import com.kerhcin.mediautil.widget.VideoProgressBar;
 import com.werb.mediautilsdemo.R;
-import com.werb.mediautilsdemo.widget.SendView;
-import com.werb.mediautilsdemo.widget.VideoProgressBar;
 
 import java.util.UUID;
 

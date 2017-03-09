@@ -1,4 +1,4 @@
-package com.werb.mediautilsdemo.widget;
+package com.kerhcin.mediautil.widget;
 
 import android.animation.AnimatorSet;
 import android.animation.ObjectAnimator;
@@ -7,8 +7,8 @@ import android.util.AttributeSet;
 import android.view.LayoutInflater;
 import android.widget.RelativeLayout;
 
-import com.werb.mediautilsdemo.R;
-import com.werb.mediautilsdemo.Utils;
+import com.kerhcin.mediautil.R;
+import com.kerhcin.mediautil.Utils;
 
 /**
  * Created by wanbo on 2017/1/20.
